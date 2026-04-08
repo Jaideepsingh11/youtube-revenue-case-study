@@ -20,9 +20,7 @@ Proposed actionable strategies:
 - Reduce bounce rate through better personalization
 - Increase watch time using autoplay and playlists
 
-## Files
-- KPI Tree PPT
-- KPI Solution PPT
+
 
 ## Outcome
 Demonstrates product thinking, metric breakdown, and data-driven decision making for revenue growth.
