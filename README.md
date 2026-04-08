@@ -24,7 +24,3 @@ Proposed actionable strategies:
 
 ## Outcome
 Demonstrates product thinking, metric breakdown, and data-driven decision making for revenue growth.
-
-## Download Case Study
-- [KPI Tree](./youtube-revenue-kpi-tree.pptx)
-- [Solution](./youtube-revenue-solution.pptx)
